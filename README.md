@@ -1,0 +1,2 @@
+# AudioEQControlledBLE-
+IOS software application that can extract the signal magnitude for 5 defined frequency bands from a audio stream and send them via BLE to a Cypress CY8CKIT-042-BLE Bluetooth® Low Energy (BLE) Pioneer Kit. CY8CKIT-042-BLE application to receive the magnitude of the 5 defined frequency bands over BLE and control the motor speed or modulate the RGB LED according to the magnitude.
